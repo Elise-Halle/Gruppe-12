@@ -1,2 +1,2 @@
-# navn-p--oppgave-her
+# navn-pa-oppgave-her
 IS-118, Gruppeinnlevering 1
