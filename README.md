@@ -1,2 +1,2 @@
-# navn-pa-oppgave-her
-IS-118, Gruppeinnlevering 1
+# Et felles repo til gruppe 12
+IS-118
