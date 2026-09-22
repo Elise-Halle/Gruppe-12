@@ -1,1 +1,11 @@
-Oppgavetekst går her
+# Oppstartspakke for Erling
+
+## Håndtering av tidspress og "planleggingsfellen"
+
+I forming fasen er det viktig at Erling er oppmerksom på faren for å bli fanget i et sterkt handlingspress. Når prosjektet har en fast sluttdato på 15 måneder og en begrenset budsjettramme på 8 millioner kroner, kan det være fristende å komme raskt i gang med konkrete oppgaver. Samtidig kan for lite tid brukt på planlegging og etablering av relasjoner skape problemer senere i prosjektet. Jacobsen (2016) beskriver prosjektet som en engangsorganisasjon, hvor deltakerne må etablere roller, arbeidsformer og relasjoner innenfor en begrenset tidsperiode. Derfor bør Erling tidlig forklare hvorfor tid og ressurser må brukes på å utvikle et godt samarbeid i prosjektgruppen. Et sterkt fokus på den fremtidige lanseringen kan ellers føre til at prosjektgruppen prioriterer fremdrift fremfor nødvendig planlegging i den tidlige fasen. Han bør også sette av tid til å avklare forventninger, ansvar og arbeidsformer før prosjektet går over i en mer intensiv gjennomføringsfase.
+
+Ikke minst viktig er å etablere en tydelig plan, slik at prosjektgruppen får en felles forståelse av hva som skal gjøres og hvilke mål som skal nås. Planen bør imidlertid ikke være så detaljert at den begrenser muligheten til å gjøre endringer når ny informasjon eller uforutsette utfordringer oppstår. Således kan Erling bruke planleggingen til å skape retning og struktur, samtidig som prosjektgruppen beholder nødvendig fleksibilitet. En måte å gjøre dette på er å dele prosjektet inn i mindre faser og delmål. Utviklingen av et **"minimum viable product” (MVP)** kan for eksempel være et viktig delmål. Ved å sette en realistisk tidsfrist for MVP-en får utviklingsteamet mulighet til å teste løsningen, innhente tilbakemeldinger og foreta nødvendige justeringer før den endelige lanseringen.
+
+Prosjektgruppen bør etablere _SMARTe mål_ som er spesifikke, målbare, aksepterte, realistiske og tidsbestemte. Klare, utfordrende og målbare mål kan bidra til å øke motivasjonen og legge til rette for bedre ytelse (Jacobsen, 2016). For Erling vil dette også gjøre det lettere å avklare hva prosjektgruppen faktisk skal oppnå innenfor de gitte tids- og ressursrammene.
+
+# Egenevaluering av gruppekontrakt
