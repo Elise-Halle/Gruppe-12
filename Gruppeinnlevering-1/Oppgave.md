@@ -1,4 +1,9 @@
 # Oppstartspakke for Erling
+## Innledning
+Erling skal på 15 måneder lede syv til åtte mennesker fra IT, kultur, plan og bygg, politisk ledelse, eksterne fagspesialister og innbyggerforeninger fram mot lanseringen av en digital medborgerportal, innenfor en ramme på 8 millioner kroner. Den tverrfaglige sammensetningen av menneskene er både en styrke og en utfordring. Jacobsen (2016) beskriver prosjektet som en temporær organisasjon: det har klare ressursrammer, et definert mål og en sluttdato, samtidig som roller, rutiner og relasjoner må etableres på kort tid.
+
+Denne pakken er utformet som en praktisk veileder for Erling i forming-fasen, den første av Tuckmans (1965) fire faser i gruppeutviklingen. Målet er å etablere gode rammer for samarbeid før prosjektet går over i mer intensiv gjennomføring. Pakken består av seks deler: rekruttering og sammensetning, design av det første møtet, relasjonelle kontrakter, konflikthåndtering, håndtering av tidspress og planlegging, og kommunikasjon. Til slutt følger gruppens egen evaluering av egen gruppekontrakt.
+
 
 ## Design av det første møtet
 I møte med en heterogen prosjektgruppe, er det en stor fordel å være bevisst på hva den første samlingen innebærer. En slik gruppe rommer mennesker som har lite eller ingen kjennskap til hverandre. Oppstartsmøtet er mer enn bare et rent informasjonsmøte hvor prosjektleder, og eventuelt prosjekteier, presenterer arbeidsmål, tidsrammer og arbeidsfordeling. Her vil også gruppemedlemmene danne inntrykk av blant annet hverandre, ledelsen og prosjektets verdi. (Jacobsen, 2016)
