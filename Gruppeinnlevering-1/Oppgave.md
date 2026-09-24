@@ -65,7 +65,6 @@ En situasjon som kom uforutsett for oss var at fristene på innleveringene kunne
 Det er mulig vi har formulert oss vagt i noe av formuleringen i kontrakten, men vår innstilling er såpass lik at dette ikke har ført til noen konflikter. 
 For fremtidige prosjekter vil vi anbefale å starte med en forventningserklæring og en runde på hvilke mål hvert medlem i gruppen har for prosjektet. Da er det lettere å formulere arbeidskrav og arbeidsfordeling fordi dette påvirkes veldig mye av hvor stor innsats gruppen er villig til å legge ned i jobben. Vi vil også gi råd om at alle skal føle seg inkludert i arbeidet med gruppekontrakten, slik at alle kjenner på eierskap til den.
 
-
 # Kildeliste
 
 Aakre, I., & Mørkve, M. (2024). Ingeniørstudenters opplevelse av gruppeavtale: Er det lurt å skrive en avtale? Nordic Journal of STEM Education, 8(2), 60–72.
