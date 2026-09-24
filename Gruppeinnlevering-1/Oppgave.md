@@ -1,5 +1,13 @@
 # Oppstartspakke for Erling
 
+## Design av det første møtet
+I møte med en heterogen prosjektgruppe, er det en stor fordel å være bevisst på hva den første samlingen innebærer. En slik gruppe rommer mennesker som har lite eller ingen kjennskap til hverandre. Oppstartsmøtet er mer enn bare et rent informasjonsmøte hvor prosjektleder, og eventuelt prosjekteier, presenterer arbeidsmål, tidsrammer og arbeidsfordeling. Her vil også gruppemedlemmene danne inntrykk av blant annet hverandre, ledelsen og prosjektets verdi. (Jacobsen, 2016)
+
+Vi anbefaler at disse punktene blir dekket under det første møtet:
+- Start med en presentasjon av oppdraget. Her er det fint å nevne at prosjektet har en tidsavgrensning på 15 måneder, totalbudsjettet på 8 millioner med muligheter for eventuelle overskridelser og målet om 20 prosent økt engasjement. Dette gir gruppa en innføring til hva de skal forvente. Etter denne presentasjonen burde det gjøres rom for tilbakemeldinger, innvendinger og diskusjon. Når medlemmene får bidra med planlegging og målsetting, vil de kjenne en større tilknytning til prosjektet, noe som gjerne fører til økt innsats.
+- En åpen samtale kan ende i diskusjoner. For å rette fokuset tilbake på gruppen som helhet, og det sosiale aspektet, er det nå fint å introdusere pseudo-arbeid. *“Dette er en form for kommunikasjon der innholdet i hovedsak dreier seg om ting som ikke er direkte relatert til det aktuelle prosjektet man er i ferd med å starte opp.”* (Jacobsen, 2016). Gi rom for at gruppemedlemmene kan dele erfaringer, finne felles interesser og snakke om andre samtidsaktuelle tema. Mange anser denne delen som uproduktiv og bortkastet, men dette skal ikke undervurderes.
+- Etter hvert er det tid for å fordele ansvarsområder. Lag en oversikt over hvem som har ansvar for hva, men ikke ta noen beslutninger om hvordan arbeidet skal utføres. La gruppemedlemmene selv være en del av å etablere fremgangsmåtene når det kommer til selve utviklingen av medborgerportalen. Her er det også viktig å avklare hvordan beslutninger tas. Tar prosjektleder alle beslutninger, eller bestemmer flertallet? Finnes det andre løsninger? Bli enige om fordeling for å unngå at uklare roller blir en kilde til konflikt.(Aakre & Mørkve, 2024).
+
 ## Proaktive mekanismer for konflikthåndtering
 
 Uenighet er ikke nødvendigvis et problem i seg selv. Problemet kan oppstå når personer ikke tør å si hva de mener, selv når de mener at noe er feil. Dersom gruppemedlemmer holder tilbake egne meninger for å unngå konflikt, kan det i noen tilfeller føre til større problemer enn selve uenigheten. I en prosjektgruppe bør målet derfor ikke være å unngå uenighet, men å skape et miljø der ulike synspunkter kan tas opp og håndteres på en konstruktiv måte.
