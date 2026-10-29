@@ -1,4 +1,4 @@
-while(True):
+while True:
     poeng = 0
     print("""
 ==============================================================================
@@ -42,19 +42,19 @@ Diskusjonene blir stadig mer emosjonelle, og begge begynner å trekke støtte fr
 
 Erling må bestemme hvordan han skal håndtere konflikten.
 
-A) Snakke med silje og Elias individuelt først,    og deretter samle dem til et struktuert møte.
+A) Snakke med silje og Elias individuelt først, og deretter samle dem til et struktuert møte.
    De skal avklare problemene, diskutere prosjektetes krav og vurdere alternative løsninger sammen.
 
 B) Ignorere konflikten og håpe at de løser den selv.
     
 """)
-    
-    while(True):
+
+    while True:
         svar = input("Velg A eller B: ").upper()
-        if (svar == "A"):
+        if svar == "A":
             poeng += 1
             break
-        elif (svar == "B"):
+        elif svar == "B":
             break
         else:
             print("Ugyldig svar. Skriv A eller B.")
@@ -78,19 +78,19 @@ utfordringer med moderering, personvern og gjennomføring.
 
 Hva bør Erling gjøre?
 
-A) Invitere Hamdi og Hallgeir til en struktuert    samtale, undersøke alternativer og vurdere dem
+A) Invitere Hamdi og Hallgeir til en struktuert samtale, undersøke alternativer og vurdere dem
    etter felles kriterier. Fastsette en frist for beslutningen.
 
 B) Velge Hallgeirs forslag uten å ta hensyn til Hamdis innvendinger.
 
 """)
-    
-    while(True):
+
+    while True:
         svar = input("Velg A eller B: ").upper()
-        if (svar == "A"):
+        if svar == "A":
             poeng += 1
             break
-        elif (svar == "B"):
+        elif svar == "B":
             break
         else:
             print("Ugyldig svar. Skriv A eller B.")
@@ -114,12 +114,12 @@ B) Gjøre møtene kortere og mer målrettede. Involvere teamet i organiseringen,
    inn i mindre delmål og anerkjenne fremgangen.
 
 """)
-    
-    while(True):
+
+    while True:
         svar = input("Velg A eller B: ").upper()
-        if (svar == "A"):
+        if svar == "A":
             break
-        elif (svar == "B"):
+        elif svar == "B":
             poeng += 1
             break
         else:
@@ -189,14 +189,14 @@ Prototypen blir forsinket og holder lavere kvalitet enn planlagt. Teamet blir st
 storming-fasen, tilliten til Erling svekkes, og prosjektet risikerer å bli forlatt.
 """)
 
-    while(True):
+    while True:
         svar = input("\nVil du spille en gang til? (Ja/Nei): ").upper()
-        
+
         if svar in ("JA", "NEI"):
             break
         else:
             print("Ugyldig svar. Skriv Ja eller Nei.")
-        
+
     if svar == "NEI":
         print("\nTakk for at du spilte!")
         break
