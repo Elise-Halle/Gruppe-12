@@ -50,7 +50,7 @@ B) Ignorere konflikten og håpe at de løser den selv.
 """)
 
     while True:
-        svar = input("Velg A eller B: ").upper()
+        svar = input("Velg A eller B: ").strip().upper()
         if svar == "A":
             poeng += 1
             break
@@ -86,7 +86,7 @@ B) Velge Hallgeirs forslag uten å ta hensyn til Hamdis innvendinger.
 """)
 
     while True:
-        svar = input("Velg A eller B: ").upper()
+        svar = input("Velg A eller B: ").strip().upper()
         if svar == "A":
             poeng += 1
             break
@@ -116,7 +116,7 @@ B) Gjøre møtene kortere og mer målrettede. Involvere teamet i organiseringen,
 """)
 
     while True:
-        svar = input("Velg A eller B: ").upper()
+        svar = input("Velg A eller B: ").strip().upper()
         if svar == "A":
             break
         elif svar == "B":
@@ -190,7 +190,7 @@ storming-fasen, tilliten til Erling svekkes, og prosjektet risikerer å bli forl
 """)
 
     while True:
-        svar = input("\nVil du spille en gang til? (Ja/Nei): ").upper()
+        svar = input("\nVil du spille en gang til? (Ja/Nei): ").strip().upper()
 
         if svar in ("JA", "NEI"):
             break
